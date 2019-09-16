@@ -1,0 +1,217 @@
+{ "songs":
+  [ { "title": "KAWAI THUNDER"
+    , "artist": "Micelle"
+    , "genre": "Kawaic Schranz"
+    , "bpm": 161
+    , "charts":
+      [ { "md5": "25fd92f36e2aa2c6d00c3fd8014dfdfc"
+        , "info":
+          { "title": "KAWAI THUNDER"
+          , "artist": "Micelle"
+          , "genre": "Kawaic Schranz"
+          , "subtitles":
+            [ "NORMAL"
+            ]
+          , "subartists": []
+          , "difficulty": 0
+          , "level": 4
+          }
+        , "noteCount": 376
+        , "bpm":
+          { "init": 161
+          , "min": 161
+          , "median": 161
+          , "max": 161
+          }
+        , "duration": 111.80124223602485
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "0_kawai3.bms"
+        }
+      , { "md5": "7cc6efbbf20998758d1524cee95f22c8"
+        , "info":
+          { "title": "CAIT THUNDER"
+          , "artist": "Micelle / obj&BGA:てーわい"
+          , "genre": "Caitic Schranz"
+          , "subtitles":
+            [ "NYAIPER"
+            ]
+          , "subartists": []
+          , "difficulty": 3
+          , "level": 8
+          }
+        , "noteCount": 867
+        , "bpm":
+          { "init": 161
+          , "min": 161
+          , "median": 161
+          , "max": 161
+          }
+        , "duration": 111.80124223602485
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "1_kawai3_c.bms"
+        }
+      , { "md5": "0cfe0506163241cefe6280f2c05fa08c"
+        , "info":
+          { "title": "KAWAI THUNDER"
+          , "artist": "Micelle"
+          , "genre": "Kawaic Schranz"
+          , "subtitles":
+            [ "HYPER"
+            ]
+          , "subartists": []
+          , "difficulty": 0
+          , "level": 8
+          }
+        , "noteCount": 861
+        , "bpm":
+          { "init": 161
+          , "min": 161
+          , "median": 161
+          , "max": 161
+          }
+        , "duration": 111.80124223602485
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "1_kawai3.bms"
+        }
+      , { "md5": "a96b25e08d02eb32f356b1c0bd3cc639"
+        , "info":
+          { "title": "KAWAI THUNDER"
+          , "artist": "Micelle"
+          , "genre": "Kawaic Schranz"
+          , "subtitles":
+            [ "ANOTHER"
+            ]
+          , "subartists": []
+          , "difficulty": 0
+          , "level": 10
+          }
+        , "noteCount": 1125
+        , "bpm":
+          { "init": 161
+          , "min": 161
+          , "median": 161
+          , "max": 161
+          }
+        , "duration": 111.80124223602485
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "2_kawai3.bms"
+        }
+      ]
+    , "warnings": []
+    , "id": "[Micelle]KAWAI_THUNDER"
+    , "path": "[Micelle]KAWAI_THUNDER"
+    }
+  , { "title": "Toast Me!"
+    , "artist": "Micelle"
+    , "genre": "BREADCORE"
+    , "bpm": 210
+    , "charts":
+      [ { "md5": "07082fdfeadc38e45b9b43f913598672"
+        , "info":
+          { "title": "Toast Me!"
+          , "artist": "Micelle"
+          , "genre": "BREADCORE"
+          , "subtitles":
+            [ "[Toast You!]"
+            ]
+          , "subartists":
+            [ "obj.Lapis"
+            ]
+          , "difficulty": 5
+          , "level": 12
+          }
+        , "noteCount": 1608
+        , "bpm":
+          { "init": 210
+          , "min": 210
+          , "median": 210
+          , "max": 210
+          }
+        , "duration": 109
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_Toast_Me!_Y.bms"
+        }
+      , { "md5": "942a72aef22f961f88d55887dc76d8f6"
+        , "info":
+          { "title": "Toast Me!"
+          , "artist": "Micelle"
+          , "genre": "BREADCORE"
+          , "subtitles":
+            [ "NORMAL"
+            ]
+          , "subartists": []
+          , "difficulty": 2
+          , "level": 4
+          }
+        , "noteCount": 292
+        , "bpm":
+          { "init": 210
+          , "min": 210
+          , "median": 210
+          , "max": 210
+          }
+        , "duration": 109
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "2_Toast_Me!.bms"
+        }
+      , { "md5": "2f881b3c9188368b06aa9572f048d965"
+        , "info":
+          { "title": "Toast Me!"
+          , "artist": "Micelle"
+          , "genre": "BREADCORE"
+          , "subtitles":
+            [ "HYPER"
+            ]
+          , "subartists": []
+          , "difficulty": 3
+          , "level": 10
+          }
+        , "noteCount": 994
+        , "bpm":
+          { "init": 210
+          , "min": 210
+          , "median": 210
+          , "max": 210
+          }
+        , "duration": 109
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "3_Toast_Me!.bms"
+        }
+      , { "md5": "e9094c98b997edf7aa0ff16db270c190"
+        , "info":
+          { "title": "Toast Me!"
+          , "artist": "Micelle"
+          , "genre": "BREADCORE"
+          , "subtitles":
+            [ "ANOTHER"
+            ]
+          , "subartists": []
+          , "difficulty": 4
+          , "level": 11
+          }
+        , "noteCount": 1126
+        , "bpm":
+          { "init": 210
+          , "min": 210
+          , "median": 210
+          , "max": 210
+          }
+        , "duration": 109
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "4_Toast_Me!.bms"
+        }
+      ]
+    , "warnings": []
+    , "id": "[Micelle]Toast_Me!_ogg"
+    , "path": "[Micelle]Toast_Me!_ogg"
+    }
+  ]
+}
